@@ -1,0 +1,1 @@
+This dataset, sourced from Kaggle, contains various features describing different cannabis strains. The analysis focused on using the provided data to identify the top 10 most reviewed cannabis strains, their types (Indica, Sativa, Hybrid), terpene profiles, and their THC/CBD percentages.
